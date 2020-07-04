@@ -6,7 +6,7 @@ git clone https://github.com/spantaleo/clasePHP
 
 /* modificar contenido */
 
-git add <nombre del archivo>
+git add [nombre del archivo]
 
 git commit -m "descripcion del cambio"
 
